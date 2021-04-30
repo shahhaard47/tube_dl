@@ -49,7 +49,7 @@ When you use formats, a list of all streams of list_formats class is returned.
 You can print the info or use them anywhere in your code. Here are the list of Information available:
   
    ```python
-  >>> yt.videoID # ID of the video
+  >>> yt.videoId # ID of the video
   >>> yt.availableCountries #List of countries where video is playable
   >>> yt.title # Returns the title of the video
   >>> yt.views # Return total views
